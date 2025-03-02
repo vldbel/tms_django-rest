@@ -1,8 +1,8 @@
 ## TMS DRF test project #01
 ### What's insode
 single table django model with two endpoints:
-* /api/books/ - get returns all books, post creates new book
-* /api/books/{book_id}/ get - returns book by its id, put - update book, delete - deletes book
+* /api/books/ where: get returns all books, post creates new book
+* /api/books/{book_id}/ where: get - returns book by its id, put - update book, delete - deletes book
 Created with help of AI. I'm not completely understand how it works :)
 
 ### Postman tests
