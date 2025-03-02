@@ -1,4 +1,4 @@
-## TMS test project
+## TMS DRF test project #01
 ### What's insode
 single table django model
 two endpoints:
